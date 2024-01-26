@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+.my_link {
+    color: cornflowerblue;
+    fonz-size: 16px;
+    line-height: 40px;
+}
+
+.my_h1 {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.my_all_paragraph {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7d7987
+}
+
+.main_h2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+}
+
+.about_img {
+    border-radius: 10px;
+    width: 300px;
+}
+
+.my_input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.my_button {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
